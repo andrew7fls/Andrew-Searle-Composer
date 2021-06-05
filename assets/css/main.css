@@ -2200,6 +2200,14 @@ input, select, textarea {
 				width: 100%;
 			}
 
+		.image.small{
+			display: block;
+			margin: 2.5em 0;
+			width: 20%;
+		}
+		.image.small img {
+			width: 100%;
+		}
 		.image.main {
 			display: block;
 			margin: 2.5em 0;
